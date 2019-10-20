@@ -1,4 +1,4 @@
-using BHAtp, Test
+using BHAPtfem, Test
 
 ProjDir = dirname(@__FILE__)
 ProjName = split(ProjDir, "/")[end]

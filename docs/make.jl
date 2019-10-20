@@ -9,5 +9,5 @@ makedocs(
 )
 
 deploydocs(
-    repo = "github.com/goedman/BHAPtfem.jl.git",
+    repo = "github.com/BottomHoleAssemblyAnalysis/BHAPtfem.jl",
 )

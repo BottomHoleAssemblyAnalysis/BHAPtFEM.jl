@@ -1,4 +1,4 @@
-The BHAtp.jl package is licensed under the MIT "Expat" License:
+The BHAPtfem.jl package is licensed under the MIT "Expat" License:
 
 > Copyright (c) 2018: Rob J Goedman.
 >
