@@ -1,4 +1,4 @@
-using BHAPtfem
+using BHAPtFEM
 using Test
 
 ProjDir = joinpath(dirname(@__FILE__), "..", "examples", "fisherpaper")

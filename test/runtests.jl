@@ -1,4 +1,4 @@
-using BHAPtfem
+using BHAPtFEM
 using Test
 
 code_tests = [
@@ -12,7 +12,7 @@ code_tests = [
 
 println("\n\nRunning BottomHoleAssemblyAnalysis/BHatp.jl tests:\n\n")
 
-@testset "BHAPtfem.jl" begin
+@testset "BHAPtFEM.jl" begin
   
   for test in code_tests
       println("\n\n  * $(test) *\n")

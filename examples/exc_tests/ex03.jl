@@ -1,4 +1,4 @@
-using BHAPtfem
+using BHAPtFEM
 
 ProjDir = dirname(@__FILE__)
 

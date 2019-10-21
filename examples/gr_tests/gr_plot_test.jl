@@ -1,4 +1,4 @@
-using BHAPtfem, DataFrames, GR
+using BHAPtFEM, DataFrames, GR
 
 ProjDir = dirname(@__FILE__)
 ProjName = split(ProjDir, "/")[end]

@@ -8,8 +8,8 @@ function input!(bhadata::Dict{Symbol, Any})
   bhadata[:noofelements] = Int(sum([bha[:segs][i][3] for i in 1:length(bha[:segs])]))
   bhadata[:noofnodes] = bha[:noofelements] + 1
 
-  elements = [BHAPtfem.Element() for i in 1:bhadata[:noofelements]]
-  nodes = [BHAPtfem.Node() for i in 1:bhadata[:noofnodes]]
+  elements = [BHAPtFEM.Element() for i in 1:bhadata[:noofelements]]
+  nodes = [BHAPtFEM.Node() for i in 1:bhadata[:noofnodes]]
   properties = fill(0.0, length(seg), 3)
 
   el = 0                                            # Element index

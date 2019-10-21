@@ -1,3 +1,3 @@
-# BHAPtfem
+# BHAPtFEM
 
 *Documentation goes here.*

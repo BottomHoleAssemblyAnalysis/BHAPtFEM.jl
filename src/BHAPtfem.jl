@@ -1,4 +1,4 @@
-module BHAPtfem
+module BHAPtFEM
 
 # package code goes here
 
@@ -11,7 +11,7 @@ using SparseArrays, LinearAlgebra
 
 include("util/types.jl")
 
-# input routines (called from BHAPtfem.jl)
+# input routines (called from BHAPtFEM.jl)
 
 include("input/creatematerialdict.jl")
 include("input/createmediadict.jl")

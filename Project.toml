@@ -1,4 +1,4 @@
-name = "BHAPtfem"
+name = "BHAPtFEM"
 uuid = "93ceba2d-d20d-5c25-8f16-94297efeca72"
 authors = ["Rob J Goedman <goedman@mac.com>"]
 version = "1.0.0"

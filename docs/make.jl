@@ -1,13 +1,13 @@
-using Documenter, BHAPtfem
+using Documenter, BHAPtFEM
 
 makedocs(
-    modules = [BHAPtfem],
+    modules = [BHAPtFEM],
     format = Documenter.HTML(),
     checkdocs = :exports,
-    sitename = "BHAPtfem.jl",
+    sitename = "BHAPtFEM.jl",
     pages = Any["index.md"]
 )
 
 deploydocs(
-    repo = "github.com/BottomHoleAssemblyAnalysis/BHAPtfem.jl",
+    repo = "github.com/BottomHoleAssemblyAnalysis/BHAPtFEM.jl",
 )

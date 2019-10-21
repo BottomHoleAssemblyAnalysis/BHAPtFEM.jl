@@ -1,4 +1,4 @@
-using BHAPtfem, FinEtools
+using BHAPtFEM, FinEtools
 
 ProjDir = @__DIR__
 cd(ProjDir)
