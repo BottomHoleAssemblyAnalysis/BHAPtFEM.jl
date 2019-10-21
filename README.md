@@ -18,7 +18,7 @@ Part of the BottomHoleAssemblyAnalysis Github organizatioin.
 
 This Github organization will contain a set of packages/projects related to the analysis of Bottom Hole Assemblies (BHA).
 
-BHAPtFEM.jl computes the theoretical performance (tp) of a bottom hole assembly inside a bore hole in terms of its tendency to 'build', 'hold' or 'drop'.
+BHAPtFEM.jl is current;y mainly used to check partial results of BHAtp.jl.
 
 
 ## Introduction
