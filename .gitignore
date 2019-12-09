@@ -9,3 +9,4 @@ output/
 output/*
 docs/build/
 docs/site/
+Manifest.toml
