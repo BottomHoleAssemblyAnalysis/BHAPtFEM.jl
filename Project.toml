@@ -26,7 +26,7 @@ FinEtools = "3, 4.0"
 GR = "0.44"
 Interpolations = "0.12"
 OffsetArrays = "0.11"
-PtFEM = "1.0"
+PtFEM = "1.1"
 Reexport = "0.2"
 julia = "1"
 
