@@ -3,7 +3,7 @@
 
 [![Project Status: WIP - Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](http://www.repostatus.org/badges/latest/wip.svg)](http://www.repostatus.org/#wip)
 
-Linux/OSX: [![Build Status](https://travis-ci.org/BottomHoleAssemblyAnalysis/BHAPtfem.jl.svg?branch=master)](https://travis-ci.org/BottomHoleAssemblyAnalysis/BHAPtfem.jl)
+Linux/OSX: [![Build Status](https://travis-ci.com/BottomHoleAssemblyAnalysis/BHAPtfem.jl.svg?branch=master)](https://travis-ci.com/BottomHoleAssemblyAnalysis/BHAPtfem.jl)
 
 Windows: [![Build status](https://ci.appveyor.com/api/projects/status/github/BottomHoleAssemblyAnalysis/BHAPtfem.jl?branch=master)](https://ci.appveyor.com/project/BottomHoleAssembyAnalysis/bhatp-jl)
 
