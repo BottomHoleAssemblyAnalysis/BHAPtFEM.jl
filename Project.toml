@@ -1,7 +1,7 @@
 name = "BHAPtfem"
 uuid = "93ceba2d-d20d-5c25-8f16-94297efeca72"
 authors = ["Rob J Goedman <goedman@mac.com>"]
-version = "1.0.5"
+version = "1.0.6"
 
 [deps]
 CustomUnitRanges = "dc8bdbbb-1ca9-579f-8c36-e416f6a65cce"
