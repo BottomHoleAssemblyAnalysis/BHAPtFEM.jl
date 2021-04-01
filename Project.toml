@@ -19,7 +19,7 @@ Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
 [compat]
 CustomUnitRanges = "1.0"
 DataFrames = "0.22"
-GR = "0.53, 0.54, 0.55"
+GR = "0.53, 0.54, 0.55, 0.57"
 Interpolations = "0.13"
 OffsetArrays = "1.0"
 PtFEM = "1.2"
